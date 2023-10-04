@@ -4,6 +4,7 @@
 ### I am in active job search. I will be delighted to take part in projects on game analytics!
 
 ### Languages and Tools:
+
 Pandas, Numpy, Matplotlib, Scipy, Seaborn, Dash, SQL
 
 <!--
