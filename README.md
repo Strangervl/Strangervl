@@ -1,6 +1,4 @@
-### Hi there! I'm Vladimir.
-
-### I'm data analyst.
+### Hi there! I'm data analyst.
 ### I am in active job search. I will be delighted to take part in projects on game analytics!
 
 ### Languages and Tools:
