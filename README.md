@@ -5,7 +5,11 @@
 
 ### Languages and Tools:
 
-Pandas, Numpy, Matplotlib, Scipy, Seaborn, Dash, SQL
+- Languages: Python, SQL
+- Data analysis: Pandas, NumPy, SciPy, Statsmodels
+- Visualization: Matplotlib, Plotly, Seaborn
+- Dashboards: Tableau
+- А/В-tests
 
 <!--
 **Strangervl/Strangervl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
